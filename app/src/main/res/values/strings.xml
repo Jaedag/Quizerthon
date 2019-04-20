@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Quizerthon</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean</string>
+    <string name="question_africa">The source of the Nile River is in Egypt</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake</string>
+    <string name="question_1"> Lightning never strikes in the same place twice</string>
+    <string name="question_2">If you cry in space the tears just stick to your face</string>
+    <string name="question_3"> If you cut an earthworm in half, both halves can regrow their body</string>
+    <string name="question_4">Humans can distinguish between over a trillion different smells</string>
+    <string name="question_5">Adults have fewer bones than babies do</string>
+    <string name="question_6"> Napoleon Bonaparte was extremely short</string>
+    <string name="question_7">Goldfish only have a memory of three seconds</string>
+    <string name="question_8">There are more cells of bacteria in your body than there are human cells</string>
+    <string name="question_9">Your fingernails and hair keep growing after you die</string>
+    <string name="question_10"> Birds are dinosaurs</string>
+    <string name="question_11">It costs the U.S. Mint more to make pennies and nickels than the coins are actually worth</string>
+    <string name="question_12">Water spirals down the plughole in opposite directions in the northern and southern hemispheres</string>
+    <string name="question_13">London is the Capital of Britain</string>
+    <string name="question_14">Buzz Aldrin was the first man to urinate on the moon</string>
+    <string name="question_15">Twinkies have an infinite shelf life</string>
+    <string name="question_16">Humans can’t breathe and swallow at the same time</string>
+    <string name="question_17">The popular image of Santa Claus – chubby, bearded, in red and white clothes – was invented by Coca-Cola for an ad campaign</string>
+    <string name="question_18">The top of the Eiffel Tower leans away from the sun</string>
+    <string name="question_19">Drinking alcohol kills brain cells</string>
+    <string name="question_20">If your large intestine was removed and straightened, it\'d be equal to about twice your height</string>
+    <string name="question_21">Female kangaroos have three vaginas</string>
+    <string name="question_22">France was still executing people with a guillotine when the first Stars Wars film came out in 1977</string>
+    <string name="question_23">October 10th falls on a Tuesday every year</string>
+    <string name="question_24">The sun makes up 99.8% of the mass of our solar system</string>
+    <string name="question_25">Brick buildings can never be more than 10 floors high or they will collapse from the pressure of the bricks on the top layer</string>
+    <string name="question_26">Oxford University in England predates the Aztec Empire</string>
+    <string name="question_27">Oreo cookies have existed longer than chocolate chip cookies</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_results">ResultsActivity</string>”
+    <string name="results_text">Your Score was:</string>
+    <string name="results_fract">/10</string>
+    <string name="welcome_text">Welcome to</string>
+
+</resources>
