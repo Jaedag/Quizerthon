@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="0.17"
             android:shadowRadius="2"
-            android:text="Q"
+            android:text="@string/q_logo"
             android:textAlignment="center"
             android:textColor="@android:color/background_light"
             android:textSize="210sp"

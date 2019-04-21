@@ -43,7 +43,9 @@
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/background_light"
                 android:textSize="70sp"
-                android:textStyle="bold"/>
+                android:textStyle="bold"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"/>
 
         </LinearLayout>
 
@@ -53,7 +55,7 @@
             android:layout_height="wrap_content"
             android:background="@color/buttonColour"
             android:padding="24dp"
-            android:text="Try Again"
+            android:text="@string/try_again"
             android:textAllCaps="false"
             android:textColor="@color/textColour"
             android:textSize="23sp"

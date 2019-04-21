@@ -5,11 +5,6 @@
     <string name="next_button">Next</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
-    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean</string>
-    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean</string>
-    <string name="question_africa">The source of the Nile River is in Egypt</string>
-    <string name="question_americas">The Amazon River is the longest river in the Americas</string>
-    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake</string>
     <string name="question_1"> Lightning never strikes in the same place twice</string>
     <string name="question_2">If you cry in space the tears just stick to your face</string>
     <string name="question_3"> If you cut an earthworm in half, both halves can regrow their body</string>
@@ -37,11 +32,77 @@
     <string name="question_25">Brick buildings can never be more than 10 floors high or they will collapse from the pressure of the bricks on the top layer</string>
     <string name="question_26">Oxford University in England predates the Aztec Empire</string>
     <string name="question_27">Oreo cookies have existed longer than chocolate chip cookies</string>
+    <string name="question_28">The smallest bone in the human body is the about the size of a grain of rice</string>
+    <string name="question_29">Earth is the only planet in our solar system not named after a Greek or Roman god.</string>
+    <string name="question_30">Earth spins around its axis once a year.</string>
+    <string name="question_31">A googol is a very large number of a 1 followed by a hundred 0\'s.</string>
+    <string name="question_32"> About half of your body weight is muscle.</string>
+    <string name="question_33">The prefix \'giga\' means a million</string>
+    <string name="question_34">Mount Aconcagua is the tallest mountain in the Americas?</string>
+    <string name="question_35">The country Cameroon borders the Republic of the Congo?</string>
+    <string name="question_36">The Nintendo 64 game F-Zero-X contains Rainbow Road?</string>
+    <string name="question_37">The last dynasty in China was the Chou?</string>
+    <string name="question_38">Independence, Missouri was the start of the Oregon Trail during America\'s westward expansion?</string>
+    <string name="question_39">Krypton\'s atomic number is 26?</string>
+    <string name="question_40">Leif Ericson was the first person to cross the Atlantic?</string>
+    <string name="question_41"> FBI means Federal Bureau of Investigation?</string>
+    <string name="question_42">Al Capone was arrested by the FBI for illegal alcohol sales?</string>
+    <string name="question_43">There is such a country known as Benin.</string>
+    <string name="question_44">Czar Nicholas II was executed in 1917?</string>
+    <string name="question_45">The city Alexandria was named after Alexander the Great?</string>
+    <string name="question_46">Leningrad (St. Petersburg) suffered a siege of well over two years in WWII.</string>
+    <string name="question_47">In Mario Kart 64, you flick the control stick twice to make the \'E\'s yellow.</string>
+    <string name="question_48">Momentum is velocity multiplied by force.</string>
+    <string name="question_49">A diode is an electrical component.</string>
+    <string name="question_50"> In the "Digimon" TV show, Megaseadramon is beat by MetalGreymon</string>
+    <string name="question_51">The first set of Crayola crayons had eight colors?</string>
+    <string name="question_52">Fort Knox is found in Washington D.C.</string>
+    <string name="question_53">Mitsubishi makes television sets.</string>
+    <string name="question_54">The only even prime number is 2</string>
+    <string name="question_55">Our nose, eyes and ears never stop growing until the day we die</string>
+    <string name="question_56">The white part of a fingernail is called the \'luna\'</string>
+    <string name="question_57">You can only see a rainbow with your back to the sun</string>
+    <string name="question_58">A \'jiffy\' is an actual unit of time.</string>
+    <string name="question_59">Isaac Newton was an Anglican deacon</string>
+    <string name="question_60">Mark Twain\'s real name was Samuel Clementine</string>
+    <string name="question_61">The most common first name in the world is Mohammed (Muhammad)</string>
+    <string name="question_62">Alexander the Great suffered from symptoms that today would most likely be considered epilepsy</string>
+    <string name="question_63">The so-called \'perfect age\' is 32, because Jesus Christ died at age 32</string>
+    <string name="question_64">The exact translation of the origin of the word \'check-mate\' is \'the king is captured\'</string>
+    <string name="question_65">The word \'girl\' mostly appears only once in the Bible (any translation)</string>
+    <string name="question_66">In written English, on average one out of every eight letters is an \'e\'</string>
+    <string name="question_67">The infinity sign is called a \'lemniscate\'</string>
+    <string name="question_68">No word in the English language (British) has five consecutive letters that are vowels</string>
+    <string name="question_69">It takes more than an hour to completely soft-boil an ostrich egg</string>
+    <string name="question_70">A full-grown grizzly bear can run as fast as a horse</string>
+    <string name="question_71">Although flightless, Kiwi birds have wings</string>
+    <string name="question_72">Tigers have striped skin as well as striped fur</string>
+    <string name="question_73">Other than humans, the only primate that can have blue eyes is the black lemur</string>
+    <string name="question_74">If a month starts on a Sunday it will contain Friday the 13th</string>
+    <string name="question_75">There are only 25 countries world-wide in which people drive on the left-hand side of the road</string>
+    <string name="question_76">There is only one coin denomination in Vietnamese dongs</string>
+    <string name="question_77">Tuxedo Park, New York is named after the tuxedo dinner jacket</string>
+    <string name="question_78">Dueling is legal in Paraguay as long as both parties are registered blood donors</string>
+    <string name="question_79">It was Mark Twain who once said, "Bigamy is having one wife too many. Monogamy is the same."</string>
+    <string name="question_80">A young hedgehog is called a kitten</string>
+    <string name="question_81">The Pacific Ocean is larger than the Atlantic Ocean</string>
+    <string name="question_82">The Suez Canal connects the Red Sea and the Indian Ocean</string>
+    <string name="question_83">The source of the Nile River is in Egypt</string>
+    <string name="question_84">The Amazon River is the longest river in the Americas</string>
+    <string name="question_85">Lake Baikal is the world\'s oldest and deepest freshwater lake</string>
+
+
+
+
+
+
 
     <string name="action_settings">Settings</string>
     <string name="title_activity_results">ResultsActivity</string>”
     <string name="results_text">Your Score was:</string>
     <string name="results_fract">/10</string>
     <string name="welcome_text">Welcome to</string>
+    <string name="q_logo">Q</string>
+    <string name="try_again">Try Again</string>
 
 </resources>
