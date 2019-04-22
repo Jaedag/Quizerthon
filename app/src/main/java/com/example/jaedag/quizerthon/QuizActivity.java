@@ -120,12 +120,21 @@ public class QuizActivity extends AppCompatActivity {
             new Question(R.string.question_83, false),
             new Question(R.string.question_84, true),
             new Question(R.string.question_85, true),
-
-
-
-
-
-
+            new Question(R.string.question_86, true),
+            new Question(R.string.question_87, true),
+            new Question(R.string.question_88, false),
+            new Question(R.string.question_89, false),
+            new Question(R.string.question_90, true),
+            new Question(R.string.question_91, true),
+            new Question(R.string.question_92, false),
+            new Question(R.string.question_93, false),
+            new Question(R.string.question_94, true),
+            new Question(R.string.question_95, true),
+            new Question(R.string.question_96, false),
+            new Question(R.string.question_97, true),
+            new Question(R.string.question_98, true),
+            new Question(R.string.question_99, true),
+            new Question(R.string.question_100, true),
 };
 
 
@@ -229,7 +238,7 @@ public class QuizActivity extends AppCompatActivity {
     mNextButton.setOnClickListener(new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-            mCurrentIndex = (mCurrentIndex + 3) % mQuestionBank.length;
+            mCurrentIndex = (mCurrentIndex + 8) % mQuestionBank.length;
             updateQuestion();
         }
     });

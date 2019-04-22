@@ -47,9 +47,8 @@
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="0.15"
             android:padding="24dp"
-            android:text="Get ready to answer 10 trivia questions!"
+            android:text="@string/game_rules"
             android:textAlignment="center"
             android:textAllCaps="false"
             android:textColor="@android:color/background_light"

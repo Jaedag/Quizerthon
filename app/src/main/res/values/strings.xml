@@ -90,12 +90,21 @@
     <string name="question_83">The source of the Nile River is in Egypt</string>
     <string name="question_84">The Amazon River is the longest river in the Americas</string>
     <string name="question_85">Lake Baikal is the world\'s oldest and deepest freshwater lake</string>
-
-
-
-
-
-
+    <string name="question_86">The youngest ever Pope was only 11 years old</string>
+    <string name="question_87">If you multiply 111,111,111 by itself, the answer is 12,345,678,987,654,321</string>
+    <string name="question_88">The original colour of Coca-Cola was green</string>
+    <string name="question_89">D\'Artagnan was one of the original \'Three Musketeers\'</string>
+    <string name="question_90">Diamond is the hardest naturally-occurring substance on earth</string>
+    <string name="question_91">Sherlock Holmes actually never said \'Elementary, my dear Watson\'.</string>
+    <string name="question_92">All Zebras are white with black stripes</string>
+    <string name="question_93">A man\'s heart beats faster than a woman\'s (on average)</string>
+    <string name="question_94">Neanderthal\'s brains were bigger than ours (Homo Sapiens)</string>
+    <string name="question_95">Fingernails grow faster than toenails</string>
+    <string name="question_96">The first ship to use the \'SOS\' signal was the Titanic</string>
+    <string name="question_97">The bones of a pigeon are so light that they weigh less than its feathers</string>
+    <string name="question_98">Natural propane gas has no odor.</string>
+    <string name="question_99">The phrase \'the blind leading the blind\' comes from the Bible</string>
+    <string name="question_100">Celine Dion is one of fourteen children.</string>
 
     <string name="action_settings">Settings</string>
     <string name="title_activity_results">ResultsActivity</string>”
@@ -104,5 +113,6 @@
     <string name="welcome_text">Welcome to</string>
     <string name="q_logo">Q</string>
     <string name="try_again">Try Again</string>
+    <string name="game_rules">Get ready to answer 10 trivia questions! \nClick true or false to answer</string>
 
 </resources>
